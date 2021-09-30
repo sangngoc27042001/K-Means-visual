@@ -1,0 +1,1 @@
+web:gunicorn Kmean.wsgi --log-file -
